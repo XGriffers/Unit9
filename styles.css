@@ -1,0 +1,16 @@
+.HeaderSection{
+  text-align: center;
+  line-height: 10px;
+  text-transform: uppercase;
+}
+
+.Connect, .CustomerCount, .ShowNames, .OrderCount, .OrderShipNames, .EmpNamesCount, .EmpNames{
+  background-color: wheat;
+  cursor: pointer;
+  border-radius: 12px;
+  display: block;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  transition: all .5s;
+}
